@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86852e13-1795-425f-8e86-222783c9e3ce" name="Changes" comment="" />
+    <list default="true" id="86852e13-1795-425f-8e86-222783c9e3ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/BancoDeDados/BancoLooca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BancoDeDados/BancoLooca.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,7 +292,7 @@
       <workItem from="1718405789550" duration="2663000" />
       <workItem from="1718630092433" duration="74000" />
       <workItem from="1718808645260" duration="846000" />
-      <workItem from="1718817186177" duration="2653000" />
+      <workItem from="1718817186177" duration="3047000" />
     </task>
     <servers />
   </component>

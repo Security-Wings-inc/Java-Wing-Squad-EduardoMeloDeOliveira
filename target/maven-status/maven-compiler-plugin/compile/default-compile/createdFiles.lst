@@ -18,11 +18,8 @@ processos\Utilitarios.class
 volume\VolumeDAO.class
 rede\Rede.class
 volume\VolumeService.class
-ipInfo\IPInfoDAO.class
 ram\RamService.class
 processos\Processos.class
-ipInfo\IPInfoService.class
-ipInfo\IPInfo.class
 rede\RedeService.class
 org\example\ConsoleDAOVm.class
 org\example\Console.class
@@ -30,4 +27,3 @@ org\example\ConsoleDAO.class
 Log\LogMonitoramento.class
 processador\ProcessadorService.class
 Heranca\Componentes.class
-ipInfo\IPInfoDAOVm.class
