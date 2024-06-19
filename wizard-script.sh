@@ -235,7 +235,7 @@ CREATE TABLE permissoes (
 CREATE TABLE inovacaoEduardoMeloDeOliveira(
 idBytesRecebidos int primary key auto_increment,
 bytesRecebidos long,
-monitor int,
+monitor int
 );
 
 
