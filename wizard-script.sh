@@ -232,19 +232,15 @@ CREATE TABLE permissoes (
     isVisible BOOLEAN
 );
 
-create table logEndereco (
-	idEndLog int primary key auto_increment,
-	dataLog datetime default current_timestamp,
-	paisLog varchar(25),
-	regiaoLog varchar(2),
-	cidadeLog varchar(25),
-	ipLog varchar(16),
-	fkUsuarioLog int,
-	foreign key (fkUsuarioLog) references usuario(idUsuario)
+CREATE TABLE inovacaoEduardoMeloDeOliveira(
+idBytesRecebidos int primary key auto_increment,
+bytesRecebidos long,
+monitor int,
+constraint monitored foreign key (monitor) references monitoramento(idMonitoramento)
 );
 
 
-ALTER TABLE logEndereco DROP FOREIGN KEY logEndereco_ibfk_1;
+
 EOF
 
 
