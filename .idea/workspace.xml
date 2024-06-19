@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86852e13-1795-425f-8e86-222783c9e3ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ipInfo/IPInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ipInfo/IPInfoDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ipInfo/IPInfoDAOVm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ipInfo/IPInfoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wizard-script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/wizard-script.sh" afterDir="false" />
-    </list>
+    <list default="true" id="86852e13-1795-425f-8e86-222783c9e3ce" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -298,7 +290,7 @@
       <workItem from="1718405789550" duration="2663000" />
       <workItem from="1718630092433" duration="74000" />
       <workItem from="1718808645260" duration="846000" />
-      <workItem from="1718817186177" duration="1779000" />
+      <workItem from="1718817186177" duration="2653000" />
     </task>
     <servers />
   </component>

@@ -37,8 +37,8 @@ public class BancoLooca {
 
     private static final String url = "jdbc:mysql://localhost:3306/securityWings";
 
-    private static final String user = "root";
-    private static final String password = "1033";
+    private static final String user = "securityWings";
+    private static final String password = "securityWings";
 
     private static Connection conn;
 
