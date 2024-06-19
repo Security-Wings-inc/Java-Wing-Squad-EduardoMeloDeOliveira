@@ -236,7 +236,6 @@ CREATE TABLE inovacaoEduardoMeloDeOliveira(
 idBytesRecebidos int primary key auto_increment,
 bytesRecebidos long,
 monitor int,
-constraint monitored foreign key (monitor) references monitoramento(idMonitoramento)
 );
 
 
